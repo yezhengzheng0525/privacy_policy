@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0779e4 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header ul li {
+            float: left;
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>Privacy Policy</h1>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Introduction</h2>
+            <p>Welcome to Changheng Network Technology. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at williams20190210@gmail.com.</p>
+        </section>
+        
+        <section>
+            <h2>Information We Collect</h2>
+            <p>We collect personal information that you voluntarily provide to us when registering at the CatchBigGoose, expressing an interest in obtaining information about us or our products and services, when participating in activities on the CatchBigGoose (such as posting messages in our online forums or entering competitions, contests or giveaways) or otherwise contacting us.</p>
+        </section>
+        
+        <section>
+            <h2>How We Use Your Information</h2>
+            <p>We use the information we collect or receive:</p>
+            <ul>
+                <li>To facilitate account creation and logon process.</li>
+                <li>To send administrative information to you.</li>
+                <li>Fulfill and manage your orders.</li>
+                <li>To post testimonials.</li>
+                <li>Request feedback.</li>
+                <li>To protect our Services.</li>
+                <li>To enforce our terms, conditions and policies.</li>
+                <li>To respond to legal requests and prevent harm.</li>
+                <li>For other business purposes.</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Will Your Information Be Shared with Anyone?</h2>
+            <p>We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.</p>
+        </section>
+        
+        <section>
+            <h2>How Long Do We Keep Your Information?</h2>
+            <p>We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.</p>
+        </section>
+        
+        <section>
+            <h2>How Do We Keep Your Information Safe?</h2>
+            <p>We aim to protect your personal information through a system of organizational and technical security measures.</p>
+        </section>
+        
+        <section>
+            <h2>What Are Your Privacy Rights?</h2>
+            <p>In some regions, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.</p>
+        </section>
+        
+        <section>
+            <h2>Updates to This Policy</h2>
+            <p>We may update this privacy policy from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.</p>
+        </section>
+        
+        <section>
+            <h2>Contact Us</h2>
+            <p>If you have questions or comments about this policy, you may email us at williams20190210@gmail.com or by post to:</p>
+            <p>Changheng Network Technology</p>
+            <p>[Street Address]</p>
+            <p>[City, State, Zip Code]</p>
+            <p>[Country]</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Changheng Network Technology. All rights reserved.</p>
+    </footer>
+</body>
+</html>
